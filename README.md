@@ -1,4 +1,4 @@
-- 👋 ### Hi there
+- ### Hi there👋
 - ## This is Sonia Oruche
 - ## I'm a Data analyst 
 - 👀 I’m interested in learning all that has to do with data and becoming a professional at it.
